@@ -1,4 +1,4 @@
-<template>
+﻿<template>
   <div id="app">
     <img src="./assets/logo.png">
     <hello></hello>
@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import Hello from './components/Hello'
+import Hello from './components/Hello.vue'
 
 export default {
   name: 'app',
