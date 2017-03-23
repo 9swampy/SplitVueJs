@@ -20,8 +20,9 @@
   </div>
 </template>
 
-<script src="./Hello.js">
-
+<script >
+  import hello from './Hello.js';
+  export default hello;
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
