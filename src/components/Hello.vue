@@ -20,16 +20,8 @@
   </div>
 </template>
 
-<script >
-export default {
-  name: 'hello',
-  data()
-  {
-    return {
-      msg: 'Welcome to Your Vue.js App'
-    }
-  }
-}
+<script src="./Hello.js">
+
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
